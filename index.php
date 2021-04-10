@@ -1,5 +1,5 @@
 <h1>Welcome</h1>
-<form method="GET">
+<form method="GET" action='logic.php'>
     <p><label for="LicencePlate">License Plate</label>
         <input type="text" name="LicencePlate" size="20" />
     </p>

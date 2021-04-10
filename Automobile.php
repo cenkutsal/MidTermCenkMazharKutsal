@@ -18,6 +18,6 @@ class Automobile
     }
     function __toString()
     {
-        return $this->LicensePlate . " Car: " . $this->Brand . " " . $this->Model . " Year: " . $this->ModelYear . " Color: " . $this->Color;
+        return $this->LicencePlate . " Car: " . $this->Brand . " " . $this->Model . " Year: " . $this->ModelYear . " Color: " . $this->Color;
     }
 }
